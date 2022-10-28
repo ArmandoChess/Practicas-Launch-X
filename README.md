@@ -1,6 +1,8 @@
 # Practicas-Launch-X
 Este repositorio contiene todas mis practicas del programa Launch-X
 
+REQUERIMIENTOS PROYECTO ABOGABOT
+![Buyer-Persona](https://user-images.githubusercontent.com/114197309/198701961-e0736ad0-6c40-4026-b9d4-4b1a178be3e2.png)
 
 Objetivo: Crear una página web que facilite la creación y gestión de las demandas generadas por los clientes del Despacho Jurídico "X"
 Requerimientos:
@@ -28,3 +30,5 @@ Requerimientos:
 •	Pagina Web
 * Colores base: Azul y Blanco
 *Pagina Responsive, visible en el celular
+
+BUYER PERSONA
