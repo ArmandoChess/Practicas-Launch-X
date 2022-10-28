@@ -32,4 +32,6 @@ Requerimientos:
 *Pagina Responsive, visible en el celular
 
 BUYER PERSONA
-![Buyer-Persona](https://user-images.githubusercontent.com/114197309/198702070-febec5ac-d7e6-4239-b2da-39be5ba342a0.png)
+
+![Buyer-Persona](https://user-images.githubusercontent.com/114197309/198702201-3a7816b0-1962-4fa2-9989-d8ae7a47394e.png)
+
