@@ -35,3 +35,7 @@ BUYER PERSONA
 
 ![Buyer-Persona](https://user-images.githubusercontent.com/114197309/198702201-3a7816b0-1962-4fa2-9989-d8ae7a47394e.png)
 
+
+PUBLICO OBJETIVO 
+
+![Publico Objetivo](https://user-images.githubusercontent.com/114197309/198705391-36e219be-85b7-4367-b91d-7db62fa2fdb6.jpg)
